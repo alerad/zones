@@ -1,5 +1,6 @@
 {
   "MapName": "surf_mesa_revo",
+  "IsLinear": true,
   "Stages": [
     {
       "StartZone": {
